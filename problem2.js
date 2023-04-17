@@ -12,5 +12,4 @@ function fiboEvenSum(n) {
     }
     return sum;
   }
-  
 fiboEvenSum(34)
