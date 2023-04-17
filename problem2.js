@@ -13,4 +13,4 @@ function fiboEvenSum(n) {
     return sum;
   }
   
-  console.log(fiboEvenSum(34))
+  fiboEvenSum(34)
